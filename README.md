@@ -1,4 +1,4 @@
-## fuck-the-devil
+## f-the-devil
 Devil Daggers trainer for 3.2 version.
 
 ### Usage
