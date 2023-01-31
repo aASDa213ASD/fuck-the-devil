@@ -3,8 +3,8 @@ Devil Daggers trainer for 3.2 version.
 
 ### Usage
 * Start the game, head to trainer
-* Start the trainer: ```fuckTheDevil.exe```
-* Use the following keys to control the trainer:
+* Start: ```fuckTheDevil.exe```
+* Use the following keys:
    * `F9`: Show debug menu
    * `SHIFT + Z`: Reload offsets if your process has other name 'devildaggers.exe' for instance ('dd' by default);
    * `F1`: Set gem value to 0
